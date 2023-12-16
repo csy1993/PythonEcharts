@@ -1,3 +1,2 @@
 # PythonEcharts
-
-Python图表
+Python的Echarts代码
